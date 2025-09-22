@@ -67,7 +67,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=xyvczzzzz&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
